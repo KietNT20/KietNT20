@@ -1,6 +1,6 @@
 # Hi there, I'm Kiet Nguyen 👋
 
-I’m a senior at FPT University with a passion for web development. As a skilled front-end developer proficient in React and Next.js, I’m now advancing toward full-stack development by mastering backend technologies like NestJS and Spring
+I’m a senior at FPT University with a passion for web development. As a skilled front-end developer in React and Next.js, I’m now advancing toward full-stack development by mastering backend technologies like NestJS and Spring
 
 ## 🚀 About Me
 
