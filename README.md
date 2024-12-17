@@ -38,9 +38,7 @@ I'm a senior student at **FPT University** passionate about web development. I'm
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/KietNT20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KietNT20&show_icons=true&theme=algolia" alt="Kiet's GitHub stats" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KietNT20)](https://github.com/KietNT20/github-readme-stats)
 <a href="https://github.com/KietNT20">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KietNT20&layout=compact&theme=algolia" alt="Top Langs" />
 </a>
