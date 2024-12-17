@@ -19,6 +19,7 @@ I’m a senior at FPT University with a passion for web development. As a skille
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
