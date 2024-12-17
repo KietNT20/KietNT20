@@ -47,6 +47,14 @@ I'm a senior student at **FPT University** passionate about web development. I'm
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ntk28042002@gmail.com)
 
+## ❤️ Support
+
+If you find my projects helpful or like what I do, consider supporting me:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourprofile)
+
 ---
 
-Feel free to replace the placeholders with your actual information. Let me know if there are any other details you'd like to add or modify!
+*Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project.*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=KietNT20&color=brightgreen)
