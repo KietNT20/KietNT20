@@ -28,6 +28,7 @@ I'm a senior student at **FPT University** passionate about web development. I'm
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
+
 ## 💻 Projects
 
 ### [Portfolio Website](https://github.com/KietNT20/portfolio-website)
