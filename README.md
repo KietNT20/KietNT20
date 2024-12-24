@@ -8,7 +8,7 @@ I’m a senior student at FPT University passionate about web development. As a 
 
 ### 🚀 About Me
 * 🌍  I'm based in Ho Chi Minh City
-* 🌱 I’m currently learning **NestJS** and **Spring** to enhance my backend skills.
+* 🌱 I’m currently learning **NestJS** and **NextJS** to enhance my skills.
 * 🔭 I’m working on projects integrating front-end and back-end technologies.
 * 👯 I’m looking to collaborate on **web development projects**.
 * 💬 Ask me about **React**, **Next.js**, **TypeScript**, **MongoDB**, or **Postgres**.
