@@ -11,7 +11,7 @@ I’m a senior student at FPT University passionate about web development. As a 
 * 🌱 I’m currently learning **NestJS** and **Spring** to enhance my backend skills.
 * 🔭 I’m working on projects integrating front-end and back-end technologies.
 * 👯 I’m looking to collaborate on **web development projects**.
-* 💬 Ask me about **React**, **Next.js**, **TypeScript**, **MSSQL (Microsoft SQL Server)**, **MongoDB**, or **Postgres**.
+* 💬 Ask me about **React**, **Next.js**, **TypeScript**, **MongoDB**, or **Postgres**.
 * 📫 How to reach me: [ntk28042002@gmail.com](mailto:ntk28042002@gmail.com)
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
