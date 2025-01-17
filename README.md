@@ -1,8 +1,16 @@
+Hi 👋 My name is Nguyễn Tuấn Kiệt (Michael)
+===========================================
+
+Front-end web developer
+-----------------------
+
+I’m a senior student at FPT University passionate about web development. As a skilled front-end developer in React and Next.js, I’m now advancing toward full-stack development by mastering backend technologies like NestJS
+
 # 💫 About Me:
-🔭 I’m currently working on front-end react <br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m seeking help integrating advanced features in NestJS and Next.js or optimizing web app performance.<br>🌱 I’m currently learning Express.JS, NestJS, and NextJS to enhance my skills. <br>💬 Ask me about React, Javascript, Typescript <br>⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
+🔭 I’m currently working on front-end react <br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m seeking help integrating advanced features in NestJS and Next.js or optimizing web app performance.<br>🌱 I’m currently learning Express.JS, NestJS, and NextJS to enhance my skills. <br>💬 Ask me about React, Javascript, and Typescript <br>⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguyễn-kiệt-3411731bb) 
 
 # 💻 Tech Stack:
