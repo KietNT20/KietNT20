@@ -1,7 +1,7 @@
 Hi 👋 My name is Nguyễn Tuấn Kiệt (Michael)
 ===========================================
 
-Front-end web developer
+Full-stack web developer
 -----------------------
 
 I’m a senior student at FPT University passionate about web development. As a skilled front-end developer in React and Next.js, I’m now advancing toward full-stack development by mastering backend technologies like NestJS
